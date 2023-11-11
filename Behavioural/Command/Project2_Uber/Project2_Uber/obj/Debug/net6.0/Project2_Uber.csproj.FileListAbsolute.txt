@@ -1,0 +1,15 @@
+C:\Users\chvls\OneDrive\Desktop\Preparation\LLD\C_Sharp\Design Patterns\Behavioural\Command\Project2_Uber\Project2_Uber\bin\Debug\net6.0\Project2_Uber.exe
+C:\Users\chvls\OneDrive\Desktop\Preparation\LLD\C_Sharp\Design Patterns\Behavioural\Command\Project2_Uber\Project2_Uber\bin\Debug\net6.0\Project2_Uber.deps.json
+C:\Users\chvls\OneDrive\Desktop\Preparation\LLD\C_Sharp\Design Patterns\Behavioural\Command\Project2_Uber\Project2_Uber\bin\Debug\net6.0\Project2_Uber.runtimeconfig.json
+C:\Users\chvls\OneDrive\Desktop\Preparation\LLD\C_Sharp\Design Patterns\Behavioural\Command\Project2_Uber\Project2_Uber\bin\Debug\net6.0\Project2_Uber.dll
+C:\Users\chvls\OneDrive\Desktop\Preparation\LLD\C_Sharp\Design Patterns\Behavioural\Command\Project2_Uber\Project2_Uber\bin\Debug\net6.0\Project2_Uber.pdb
+C:\Users\chvls\OneDrive\Desktop\Preparation\LLD\C_Sharp\Design Patterns\Behavioural\Command\Project2_Uber\Project2_Uber\obj\Debug\net6.0\Project2_Uber.csproj.AssemblyReference.cache
+C:\Users\chvls\OneDrive\Desktop\Preparation\LLD\C_Sharp\Design Patterns\Behavioural\Command\Project2_Uber\Project2_Uber\obj\Debug\net6.0\Project2_Uber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chvls\OneDrive\Desktop\Preparation\LLD\C_Sharp\Design Patterns\Behavioural\Command\Project2_Uber\Project2_Uber\obj\Debug\net6.0\Project2_Uber.AssemblyInfoInputs.cache
+C:\Users\chvls\OneDrive\Desktop\Preparation\LLD\C_Sharp\Design Patterns\Behavioural\Command\Project2_Uber\Project2_Uber\obj\Debug\net6.0\Project2_Uber.AssemblyInfo.cs
+C:\Users\chvls\OneDrive\Desktop\Preparation\LLD\C_Sharp\Design Patterns\Behavioural\Command\Project2_Uber\Project2_Uber\obj\Debug\net6.0\Project2_Uber.csproj.CoreCompileInputs.cache
+C:\Users\chvls\OneDrive\Desktop\Preparation\LLD\C_Sharp\Design Patterns\Behavioural\Command\Project2_Uber\Project2_Uber\obj\Debug\net6.0\Project2_Uber.dll
+C:\Users\chvls\OneDrive\Desktop\Preparation\LLD\C_Sharp\Design Patterns\Behavioural\Command\Project2_Uber\Project2_Uber\obj\Debug\net6.0\refint\Project2_Uber.dll
+C:\Users\chvls\OneDrive\Desktop\Preparation\LLD\C_Sharp\Design Patterns\Behavioural\Command\Project2_Uber\Project2_Uber\obj\Debug\net6.0\Project2_Uber.pdb
+C:\Users\chvls\OneDrive\Desktop\Preparation\LLD\C_Sharp\Design Patterns\Behavioural\Command\Project2_Uber\Project2_Uber\obj\Debug\net6.0\Project2_Uber.genruntimeconfig.cache
+C:\Users\chvls\OneDrive\Desktop\Preparation\LLD\C_Sharp\Design Patterns\Behavioural\Command\Project2_Uber\Project2_Uber\obj\Debug\net6.0\ref\Project2_Uber.dll

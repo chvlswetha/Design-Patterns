@@ -1,0 +1,15 @@
+C:\Users\chvls\OneDrive\Desktop\Preparation\LLD\C_Sharp\Design Patterns\Structural\Adapter\ObjectAdapter\ObjectAdapter\bin\Debug\net6.0\ObjectAdapter.exe
+C:\Users\chvls\OneDrive\Desktop\Preparation\LLD\C_Sharp\Design Patterns\Structural\Adapter\ObjectAdapter\ObjectAdapter\bin\Debug\net6.0\ObjectAdapter.deps.json
+C:\Users\chvls\OneDrive\Desktop\Preparation\LLD\C_Sharp\Design Patterns\Structural\Adapter\ObjectAdapter\ObjectAdapter\bin\Debug\net6.0\ObjectAdapter.runtimeconfig.json
+C:\Users\chvls\OneDrive\Desktop\Preparation\LLD\C_Sharp\Design Patterns\Structural\Adapter\ObjectAdapter\ObjectAdapter\bin\Debug\net6.0\ObjectAdapter.dll
+C:\Users\chvls\OneDrive\Desktop\Preparation\LLD\C_Sharp\Design Patterns\Structural\Adapter\ObjectAdapter\ObjectAdapter\bin\Debug\net6.0\ObjectAdapter.pdb
+C:\Users\chvls\OneDrive\Desktop\Preparation\LLD\C_Sharp\Design Patterns\Structural\Adapter\ObjectAdapter\ObjectAdapter\obj\Debug\net6.0\ObjectAdapter.csproj.AssemblyReference.cache
+C:\Users\chvls\OneDrive\Desktop\Preparation\LLD\C_Sharp\Design Patterns\Structural\Adapter\ObjectAdapter\ObjectAdapter\obj\Debug\net6.0\ObjectAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chvls\OneDrive\Desktop\Preparation\LLD\C_Sharp\Design Patterns\Structural\Adapter\ObjectAdapter\ObjectAdapter\obj\Debug\net6.0\ObjectAdapter.AssemblyInfoInputs.cache
+C:\Users\chvls\OneDrive\Desktop\Preparation\LLD\C_Sharp\Design Patterns\Structural\Adapter\ObjectAdapter\ObjectAdapter\obj\Debug\net6.0\ObjectAdapter.AssemblyInfo.cs
+C:\Users\chvls\OneDrive\Desktop\Preparation\LLD\C_Sharp\Design Patterns\Structural\Adapter\ObjectAdapter\ObjectAdapter\obj\Debug\net6.0\ObjectAdapter.csproj.CoreCompileInputs.cache
+C:\Users\chvls\OneDrive\Desktop\Preparation\LLD\C_Sharp\Design Patterns\Structural\Adapter\ObjectAdapter\ObjectAdapter\obj\Debug\net6.0\ObjectAdapter.dll
+C:\Users\chvls\OneDrive\Desktop\Preparation\LLD\C_Sharp\Design Patterns\Structural\Adapter\ObjectAdapter\ObjectAdapter\obj\Debug\net6.0\refint\ObjectAdapter.dll
+C:\Users\chvls\OneDrive\Desktop\Preparation\LLD\C_Sharp\Design Patterns\Structural\Adapter\ObjectAdapter\ObjectAdapter\obj\Debug\net6.0\ObjectAdapter.pdb
+C:\Users\chvls\OneDrive\Desktop\Preparation\LLD\C_Sharp\Design Patterns\Structural\Adapter\ObjectAdapter\ObjectAdapter\obj\Debug\net6.0\ObjectAdapter.genruntimeconfig.cache
+C:\Users\chvls\OneDrive\Desktop\Preparation\LLD\C_Sharp\Design Patterns\Structural\Adapter\ObjectAdapter\ObjectAdapter\obj\Debug\net6.0\ref\ObjectAdapter.dll
